@@ -1,0 +1,20 @@
+{
+  "name": "BataraGuruOfflineTestRaka",
+  "version": "1.0.0",
+  "description": "```sh\r node <filename>\r ```",
+  "main": "no3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhatZitToyya/BataraGuruOfflineTestRaka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhatZitToyya/BataraGuruOfflineTestRaka/issues"
+  },
+  "homepage": "https://github.com/WhatZitToyya/BataraGuruOfflineTestRaka#readme"
+}
